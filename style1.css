@@ -40,7 +40,7 @@
 .date
 {
 	float: left;
-	border: 2px solid plum;
+	border: 2px solid transparent;
 	width: 115px;
 	height: 198px;
 	margin-top: 1px;
@@ -53,7 +53,7 @@
 
 .formation
 {
-	border: 2px solid lightpink ;
+	border: 2px solid transparent ;
 	width: 600px;
 	height: 198px;
 	margin-top: 1px;
